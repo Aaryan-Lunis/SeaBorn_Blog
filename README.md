@@ -1,8 +1,3 @@
-Sure! Here's a clean and beginner-friendly `README.md` file for your Seaborn plots project, with a spot to add both your GitHub and blog links:
-
----
-
-````markdown
 # 📊 Seaborn Plot Guide for Beginners
 
 Welcome to the companion code repository for my blog on **Seaborn Plots**!  
@@ -19,6 +14,8 @@ In this blog, I’ve covered:
 - Beginner-friendly explanations with examples
 
 📝 **Read the full blog here**: [My Seaborn Blog](https://your-blog-link.com)  
+📎 *(Replace with your actual blog URL)*
+
 ---
 
 ## 🚀 Getting Started
@@ -28,7 +25,7 @@ In this blog, I’ve covered:
 ```bash
 git clone https://github.com/yourusername/seaborn-plots-blog.git
 cd seaborn-plots-blog
-````
+
 
 ### 2. Set up the environment
 
