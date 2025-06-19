@@ -13,7 +13,7 @@ In this blog, I’ve covered:
 - Types of plots: Relational, Distribution, Categorical, Matrix, and Multi-plot
 - Beginner-friendly explanations with examples
 
-📝 **Read the full blog here**: [My Seaborn Blog]([https://your-blog-link.com](https://dev.to/aaryanlunis/learn-all-seaborn-graphs-in-one-blog-with-code-output-508p))  
+📝 **Read the full blog here**: [My Seaborn Blog] ([https://your-blog-link.com](https://dev.to/aaryanlunis/learn-all-seaborn-graphs-in-one-blog-with-code-output-508p))  
 
 ---
 
